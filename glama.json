@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "server": {
+    "name": "ImagePay MCP",
+    "description": "40 x402-native paid API tools over MCP — OCR, PDF, image, QR/EXIF, tabular, web & utility functions. Pay per call on Base via x402; no API key.",
+    "repository": "https://github.com/neuralmint/imagepay-mcp",
+    "homepage": "https://making-absurd-felt-tip.ngrok-free.dev",
+    "types": ["remote"],
+    "protocols": ["streamable-http"],
+    "categories": ["payments", "utilities", "image-processing", "documents", "web"],
+    "tags": ["x402", "payments", "base", "ocr", "pdf", "image", "api-marketplace"]
+  }
+}
