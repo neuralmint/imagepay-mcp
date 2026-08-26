@@ -1,7 +1,7 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
-  "name": "io.github/neuralmint/imagepay-mcp",
-  "description": "ImagePay MCP — 40 x402-native paid API tools exposed over MCP. OCR, PDF text/metadata/split/merge, image filters/transforms, QR/EXIF/watermark, tabular (csv/json/xml/yaml), web metadata, and utilities (JWT decode, cron-next, units, slugify). Each tool is gated by an x402 micro-payment on Base — call it and pay per use, no API key, no subscription.",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.neuralmint/imagepay-mcp",
+  "description": "ImagePay MCP: 40 x402 paid API tools (OCR, PDF, image, QR, tabular, web). Pay per call on Base.",
   "title": "ImagePay MCP",
   "websiteUrl": "https://making-absurd-felt-tip.ngrok-free.dev",
   "repository": {
@@ -9,7 +9,6 @@
     "source": "github"
   },
   "version": "1.0.0",
-  "license": "MIT",
   "remotes": [
     {
       "type": "streamable-http",
